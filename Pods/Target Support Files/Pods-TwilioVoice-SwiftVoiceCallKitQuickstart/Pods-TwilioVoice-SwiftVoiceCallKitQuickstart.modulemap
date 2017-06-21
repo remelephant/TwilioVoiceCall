@@ -1,0 +1,6 @@
+framework module Pods_TwilioVoice_SwiftVoiceCallKitQuickstart {
+  umbrella header "Pods-TwilioVoice-SwiftVoiceCallKitQuickstart-umbrella.h"
+
+  export *
+  module * { export * }
+}
